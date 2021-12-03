@@ -5,8 +5,7 @@
   text-decoration: none;
   list-style: none;
 }
-
-.header_main {
+.header_main{
   display: flex;
   flex-direction: column;
 }
